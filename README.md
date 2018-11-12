@@ -5,7 +5,7 @@
 
 
 
-# Beginning Machine Learning with scikit-learn by Packt
+# Machine Learning Fundamentals by Packt
 You'll begin by learning how to use the syntax of scikit-learn. You'll study the difference between supervised and unsupervised models, as well as the importance of choosing the appropriate algorithm for each dataset. You'll apply unsupervised clustering algorithm over 1990 US Census dataset, to discover patterns and profiles, and explore the process to solve a supervised machine learning problem. Then, the focus of the course shifts to supervised learning algorithms. 
 You'll learn to implement different supervised algorithms and develop neural network structures using the scikit-learn package. You'll also learn how to perform coherent result analysis to improve performance of the algorithm by tuning hyperparameters. When it finishes, this course would have given you the skills and confidence to start programming machine learning algorithms.
 
