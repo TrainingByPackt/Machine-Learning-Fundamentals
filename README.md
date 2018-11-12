@@ -36,7 +36,7 @@ You’ll also need the following software installed in advance:
 * Sublime Text (latest version), Atom IDE (latest version) or other similar text editor applications.
 * Python 3 installed
 
-The following python libraries installed:
+* The following python libraries installed:
   * NumPy
   * SciPy
   * scikit-learn
