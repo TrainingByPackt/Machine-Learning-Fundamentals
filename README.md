@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Machine-Learning-Fundamentals.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Machine-Learning-Fundamentals.svg)](https://github.com/TrainingByPackt/Beginning-Machine-Learning-with-scikit-learn/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Machine-Learning-Fundamentals.svg)](https://github.com/TrainingByPackt/Machine-Learning-Fundamentals/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Machine-Learning-Fundamentals/pulls)
 
 
 
