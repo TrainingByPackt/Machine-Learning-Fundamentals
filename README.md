@@ -32,11 +32,10 @@ For an optimal student experience, we recommend the following hardware configura
 
 ### Software requirements
 You’ll also need the following software installed in advance:
+
 * Operating System: Windows (8 or higher)
 * Sublime Text (latest version), Atom IDE (latest version) or other similar text editor applications.
 * Python 3 installed
-
-
 * The following python libraries installed:
   * NumPy
   * SciPy
