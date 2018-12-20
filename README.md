@@ -27,7 +27,7 @@ By the end of this course, you will have the skills and confidence to start prog
 For an optimal student experience, we recommend the following hardware configuration:
 * **Processor**: Intel Core i5 or equivalent
 * **Memory**: 4 GB RAM
-* **Hard disk**: 40 GB or more
+* **Hard disk**: 4 GB or more
 * An Internet connection
 
 
